@@ -18,6 +18,6 @@ export default function Home() {
   );
 }
 
-export async function getServerSideProps(context) {
-  const genre = context.query.genre;
-}
+// export async function getServerSideProps(context) {
+//   const genre = context.query.genre;
+// }
